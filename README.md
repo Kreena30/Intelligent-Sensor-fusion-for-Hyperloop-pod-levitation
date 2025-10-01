@@ -1,9 +1,5 @@
 # Intelligent-Sensor-fusion-for-Hyperloop-pod-levitation
 
-Here’s a **README.md** file draft based on your dissertation paper content. You can place this in your project repository to give others a clear overview:
-
----
-
 # Intelligent Sensor Fusion for Hyperloop Pod Levitation
 
 This project presents a **simulation-based intelligent sensor fusion and fault-tolerant control system** for **Hyperloop pod electromagnetic levitation**. Using **MATLAB/Simulink**, the system integrates multiple virtual sensors, applies **Extended Kalman Filter (EKF)-based fusion**, and introduces **fault injection models** to enhance reliability, safety, and performance in next-generation high-speed transportation systems.
