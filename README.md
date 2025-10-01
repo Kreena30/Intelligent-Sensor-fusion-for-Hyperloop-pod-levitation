@@ -1,7 +1,5 @@
 # Intelligent-Sensor-fusion-for-Hyperloop-pod-levitation
 
-# Intelligent Sensor Fusion for Hyperloop Pod Levitation
-
 This project presents a **simulation-based intelligent sensor fusion and fault-tolerant control system** for **Hyperloop pod electromagnetic levitation**. Using **MATLAB/Simulink**, the system integrates multiple virtual sensors, applies **Extended Kalman Filter (EKF)-based fusion**, and introduces **fault injection models** to enhance reliability, safety, and performance in next-generation high-speed transportation systems.
 
 ---
